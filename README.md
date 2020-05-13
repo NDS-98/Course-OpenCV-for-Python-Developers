@@ -16,7 +16,7 @@ Task: Create a drawing app,
 * Press 'q' to exit
 * Press 'b' to change color to blue and 'g' to change color to green
 #### Drawing Canvas
-![challenge1](images/challenge1.png "Drawing Canvas")
+<img src="images/challenge1.png" width="400" height="400">
 
 ## Challenge 2: Assign Object IDs and Attributes
 Task: Input is a fuzzy image
@@ -42,6 +42,6 @@ Task: Input is a fuzzy image
 * False negative - Not drawing a circle where there is an eye
 
 #### Eye Detection on Face Grids
-![challenge3_facegrid](images/challenge3_facegrid.jpg)    ![challenge3_faces](images/challenge3_faces.jpg)
+<img src="images/challenge3_facegrid.jpg" width="400" height="400">    <img src="images/challenge3_faces.jpg" width="400" height="400">
 
 **Note:** The performance of eye detection is proportional to the training of the model, hence false positives and negatives can be seen in the result. The result can be improved through better learning.
